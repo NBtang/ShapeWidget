@@ -1,0 +1,3 @@
+include ':shapeWidget'
+include ':app'
+rootProject.name = "ShapeWidget"
